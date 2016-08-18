@@ -1,0 +1,17 @@
+{
+    "name": "alice-googlefont",
+    "license": "OFL",
+    "authors": [
+        "Cyreal"
+    ],
+    "homepage": "https://fonts.google.com/",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/google-fonts-bower/alice-bower.git"
+    },
+    "description": "Alice font",
+    "keywords": [
+        "font",
+        "SERIF"
+    ]
+}
